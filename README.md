@@ -12,7 +12,16 @@
 
 </div>
 
-DashengTokenizer is a high-performance continious audio tokenizer designed for audio understanding and generation tasks. Compared to previous works, our framework trains a single linear layer to enable audio generation for semantically strong encoders.
+DashengTokenizer is a high-performance continious audio tokenizer designed for audio understanding and generation tasks. Compared to previous works, our framework trains a **single linear layer** to enable audio generation for semantically strong encoders.
+
+Achievements:
+
+* **State-of-the-Art** Audio Understanding: DashengTokenizer consistently outperforms most previous self-supervised and supervised audio encoders.
+* **High-Fidelity** Signal Reconstruction: Maintains exceptional signal integrity, ensuring that audio remains crisp and accurate after processing.
+* Accelerated **Audio Generation** Training: Achieves optimal performance significantly faster than standard VAE models, reducing training time and costs.
+* Superior **Speech Enhancement**: Provides a more robust encoding foundation for isolating and clarifying speech in noisy environments.
+
+
 
 
 # 🚀 Quick Start
